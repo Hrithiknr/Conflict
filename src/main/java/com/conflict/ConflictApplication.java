@@ -12,6 +12,7 @@ public class ConflictApplication {
 		int z = 30;
 		char c = 'c';
 		char d = 'd';
+		char e = 'e';
 		SpringApplication.run(ConflictApplication.class, args);
 
 	}
